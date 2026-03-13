@@ -134,19 +134,12 @@ numpy==1.26.4
 
 ## 👤 Author
 
-**Your Name**  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
-
+**Manvith soma**  
+📧 manvithsoma25@gmail.com  
 ---
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
 
----
-
-## ⚠️ Disclaimer
 
 This dashboard is built for **educational and research purposes only**.  
 It does not constitute financial advice. Past market performance is not indicative of future results.
